@@ -62,6 +62,6 @@ sudo parrot-upgrade && sudo parrot-upgrade && sudo parrot-upgrade
 fi ;
 
   if [ $qas = $n5 ] ; then 
-  sudo apt update && bumblebee-nvidi* primus libg*1-nvidia-g*x
+  sudo apt update && sudo apt install bumblebee-nvidi* primus libg*1-nvidia-g*x
   clear && echo "Make sure you check"
   fi ; 
