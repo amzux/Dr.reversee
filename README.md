@@ -6,3 +6,7 @@ Fix Your system in Emergency
 Amzx & Deb packages is still in old version , You may directly use 
 Script file 
  [ 2:12:42/17-04-2019 I]IST
+
+#**UPDATE**
+
+**This Module still in development , when completed , source will available
